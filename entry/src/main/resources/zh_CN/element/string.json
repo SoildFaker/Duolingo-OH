@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "多邻国(ArkWeb)"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "多邻国(ArkWeb)"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "多邻国"
+    },
+    {
+      "name": "apply_for_network",
+      "value": "允许应用使用网络"
+    }
+  ]
+}

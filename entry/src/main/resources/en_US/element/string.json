@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Duolingo(ArkWeb)"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Duolingo(ArkWeb)"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Duolingo"
+    },
+    {
+      "name": "apply_for_network",
+      "value": "Allow the app to access the network"
+    }
+  ]
+}
